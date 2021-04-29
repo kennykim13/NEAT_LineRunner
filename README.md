@@ -1,4 +1,4 @@
-# NEAT_LineRunner(2020)
+# NEAT_LineRunner
 Implemented reinforced machine learning with an evolutionary algorithm that creates artificial neural networks, on a line runner game, using Python (PyGame, Neat)
 # Screenshots
 ![Chrome_dino](https://user-images.githubusercontent.com/31898512/94327939-a0fa3080-ff7c-11ea-8cec-dc9cfaec114d.jpg)
